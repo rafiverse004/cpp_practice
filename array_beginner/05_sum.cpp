@@ -1,15 +1,14 @@
 #include <iostream>
 
-int main()
+int main() 
 {
     int n;
     std::cout << "Enter array size: ";
     std::cin >> n;
 
-    int arr[n];
-    int sum=0;
-
-    for(int i=0; i<n; i++)
+    int arr[n], sum = 0;
+    std::cout << "Enter " << n << " elements: ";
+    for(int i = 0; i < n; i++) 
     {
         std::cin >> arr[i];
         sum += arr[i];
