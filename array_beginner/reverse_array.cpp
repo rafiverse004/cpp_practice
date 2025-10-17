@@ -1,20 +1,33 @@
 #include <iostream>
 
-int main()
-{
+int main() {
     int n;
     std::cout << "Enter array size: ";
     std::cin >> n;
 
-    int i;
     int arr[n];
-    for(int i=0; i<n; i++)
-    {
+    std::cout << "Enter " << n << " elements: ";
+    for (int i = 0; i < n; i++) {
         std::cin >> arr[i];
     }
 
-    for(i=n-1; i>=0; i--)
-    {
-        std::cout << arr[i] << " ";
+    int target;
+    std::cout << "Enter element to search: ";
+    std::cin >> target;
+
+    int index = -1;
+
+    for (int i = 0; i <n; i++) {
+        if (arr[i] == target) {
+            index = i;
+            break;
+        }
     }
+
+    if (index != -1)
+        std::cout << "Target found at index: " << index << std::endl;
+    else
+        std::cout << "Target not found (-1)" << std::endl;
+
+    return 0;
 }
