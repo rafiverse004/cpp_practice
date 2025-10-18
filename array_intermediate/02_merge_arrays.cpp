@@ -20,7 +20,7 @@ int main()
     std::cout << "Enter number of elements for second array: ";
     std::cin >> n2;
 
-    //this part takes the first array elements.
+    //this part takes the second array elements.
     int arr2[n2];
     std::cout << "Enter " << n2 << " number of array elements(sorted).";
     for (int i=0; i<n2; i++)
