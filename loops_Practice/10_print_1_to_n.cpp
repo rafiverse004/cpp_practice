@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to print all numbers from 1 to a given number.
+*/
+
 #include <iostream>
 
 int main() {

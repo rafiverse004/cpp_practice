@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to take input for an array and display its elements.
+*/
+
 #include <iostream>
 
 int main() 

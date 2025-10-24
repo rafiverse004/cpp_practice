@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to display the elements of an array in reverse order.
+*/
+
 #include <iostream>
 
 int main() 

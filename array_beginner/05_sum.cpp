@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to calculate the sum of all elements in an array.
+*/
+
 #include <iostream>
 
 int main() 

@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a number is divisible by both 5 and 11.
+*/
+
 #include <iostream>
 
 int main()

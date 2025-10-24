@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to print all possible subarrays of a given array.
+*/
+
 #include <iostream>
 
 int main()

@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to count the number of even and odd elements in an array.
+*/
+
 #include <iostream>
 
 int main() 

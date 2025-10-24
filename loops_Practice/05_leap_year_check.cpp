@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given year is a leap year.
+*/
+
 #include <iostream>
 
 int main()

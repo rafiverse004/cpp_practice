@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to count the number of digits in a given positive integer.
+*/
+
 #include <iostream>
 
 int main()

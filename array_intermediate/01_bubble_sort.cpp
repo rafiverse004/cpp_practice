@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to sort an array in ascending order using bubble sort.
+*/
+
 #include <iostream>
 
 int main()

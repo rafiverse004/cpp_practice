@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to create a simple calculator that performs addition, subtraction, multiplication, and division on two numbers.
+*/
+
 #include <iostream>
 
 int main() 

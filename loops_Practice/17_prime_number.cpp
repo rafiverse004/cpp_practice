@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given number is prime or not.
+*/
+
 #include <iostream>
 
 int main()

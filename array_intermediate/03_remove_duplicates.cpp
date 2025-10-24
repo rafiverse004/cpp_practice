@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to remove duplicate elements from a sorted array.
+*/
+
 #include <iostream>
 
 int main() 

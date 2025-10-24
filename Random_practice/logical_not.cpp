@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given number is odd or even using the NOT operator.
+*/
+
 #include<iostream>
 
 int main()

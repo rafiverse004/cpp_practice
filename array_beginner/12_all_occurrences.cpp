@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to find all occurrences of a number in an array and print their indices.
+*/
+
 #include <iostream>
 
 int main() 

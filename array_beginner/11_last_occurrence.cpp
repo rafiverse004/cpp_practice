@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to find the last occurrence of a number in an array and print its index.
+*/
+
 #include <iostream>
 
 int main() 

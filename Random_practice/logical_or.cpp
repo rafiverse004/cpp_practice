@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given number is divisible by 3 or 5.
+*/
+
 #include<iostream>
 
 int main()

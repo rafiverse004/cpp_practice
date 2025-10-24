@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to find the maximum sum of all possible subarrays in an array and display each subarray with its sum.
+*/
+
 #include <iostream>
 
 int main()

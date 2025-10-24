@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to reverse an array in place and display the reversed array.
+*/
+
 #include <iostream>
 
 int main() 

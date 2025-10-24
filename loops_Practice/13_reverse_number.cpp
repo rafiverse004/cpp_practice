@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to reverse a given integer.
+*/
+
 #include <iostream>
 
 int main()

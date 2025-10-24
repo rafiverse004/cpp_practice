@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to count the number of even and odd digits in a given integer.
+*/
+
 #include <iostream>
 
 int main()

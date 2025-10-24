@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given positive integer is a power of 2.
+*/
+
 #include <iostream>
 #include <bitset>
 

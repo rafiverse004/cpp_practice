@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program that takes a username and prints "CHAT WITH HER!" if the number of distinct characters is even, or "IGNORE HIM!" if it is odd.
+*/
+
 #include <iostream>
 #include <string>
 #include <set>

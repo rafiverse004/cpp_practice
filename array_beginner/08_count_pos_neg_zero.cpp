@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to count the number of positive, negative, and zero elements in an array.
+*/
+
 #include <iostream>
 
 int main() 

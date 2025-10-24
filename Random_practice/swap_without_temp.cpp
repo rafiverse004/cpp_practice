@@ -1,6 +1,12 @@
+/*
+Question:
+Write a C++ program to swap the values of two numbers without using a third variable.
+*/
+
 #include <iostream>
 
-int main() {
+int main() 
+{
     double num1, num2;
 
     std::cout << "Enter two numbers: ";

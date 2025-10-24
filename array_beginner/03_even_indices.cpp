@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to print elements of an array at even indices.
+*/
+
 #include <iostream>
 
 int main() 

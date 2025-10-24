@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to compare two numbers and display the greater number or indicate if they are equal.
+*/
+
 #include<iostream>
 
 int main()

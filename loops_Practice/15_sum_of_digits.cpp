@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to calculate the sum of all digits in a given number.
+*/
+
 #include <iostream>
 
 int main()

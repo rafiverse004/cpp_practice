@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to perform binary search for a given element in a sorted array.
+*/
+
 #include <iostream>
 
 int main() 

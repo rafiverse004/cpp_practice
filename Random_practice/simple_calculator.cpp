@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to create a simple calculator using functions or switch-case that performs addition, subtraction, multiplication, division, and modulus operations.
+*/
+
 #include <iostream>
 
 int main() {

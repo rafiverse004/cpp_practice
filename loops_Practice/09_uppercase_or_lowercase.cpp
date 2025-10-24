@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether a given character is uppercase, lowercase, or not a letter.
+*/
+
 #include <iostream>
 
 int main()

@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to calculate the factorial of a given non-negative integer.
+*/
+
 #include <iostream>
 
 int main()

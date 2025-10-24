@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check if a watermelon of given weight can be divided into two parts with even weights.
+*/
+
 #include <iostream>
 
 int main() {

@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to rotate an array to the right by k positions.
+*/
+
 #include <iostream>
 
 int main()

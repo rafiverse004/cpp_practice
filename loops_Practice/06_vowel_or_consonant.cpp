@@ -1,3 +1,8 @@
+/*
+Question:
+Write a C++ program to check whether an entered alphabet is a vowel or a consonant.
+*/
+
 #include <iostream>
 
 int main()
