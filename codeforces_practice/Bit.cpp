@@ -1,14 +1,10 @@
-/*
-Question:
-Write a C++ program to count and display the frequency of each element in an array.
-*/
+//problem_282A
 
 #include <iostream>
 #include <string>
 
 int main() {
     int n;
-    std::cout << "Enter your choice: " << std::endl;
     std::cin >> n;
     
     int x = 0;
